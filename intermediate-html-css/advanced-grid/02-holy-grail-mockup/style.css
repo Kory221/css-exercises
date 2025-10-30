@@ -22,7 +22,7 @@
   background-color: #393f4d;
   grid-area: 1 / 1 / 2 / -1;
   display: grid;
-  grid-template-columns: 1fr 4fr;
+  grid-template-columns: 1fr 2fr;
   align-content: center;
 }
 
@@ -117,6 +117,7 @@
   color: black;
   font-weight: normal;
   font-size: 14px;
+  padding: 5px;
 }
 
 .card .title {
